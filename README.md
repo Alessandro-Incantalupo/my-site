@@ -1,3 +1,26 @@
+# Requirements
+## GOAL
+Land better job offers
+
+## Sample Audience
+Showcase my abilities to recruiters and experts
+
+## Functional requirements
+Navigation between pages, Carosusel, Responsive Design
+
+## Libraries
+Bootstrap, Swiper
+
+## Technology stack
+Angular, HTML, SCSS, TypeScript, Javascript, GIT, GitHub, Docker, Netlify,
+
+## Conventions
+BEM, TDD, GIT flow
+
+
+
+
+
 # MySite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
