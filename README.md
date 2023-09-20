@@ -6,7 +6,7 @@ Land better job offers
 Showcase my abilities to recruiters and experts
 
 ## Functional requirements
-Navigation between pages and breadcrumbs, Carosusel, Responsive Design
+Navigation between pages and breadcrumbs, Carosusel, Responsive Design, Lazyloading
 
 ## Libraries
 Bootstrap, Swiper
