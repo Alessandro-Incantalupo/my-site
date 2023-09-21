@@ -1,0 +1,56 @@
+/* ---- reset ---- */
+app-navigation {
+
+}
+
+body {
+  font: normal 75% Arial, Helvetica, sans-serif;
+}
+
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+  position: fixed;
+
+  width: 100%;
+  height: auto;
+  background-color: #000000;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+
+
+  h1, h2 {
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 700;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    //  This would center the element perfectly mindful of the element's size
+    //transform: translate(-50%, -50%);
+
+  }
+
+  h1 {
+    transform: translate(-50%, -150%);
+  }
+
+  h2 {
+    transform: translate(-50%, -50%);
+  }
+
+  .unselectable {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                          supported by Chrome, Edge, Opera, and Firefox */
+  }
+
+
+}
