@@ -14,8 +14,8 @@ Bootstrap, Swiper, Particles.js
 ## Technology stack
 Angular, HTML, SCSS, TypeScript, Javascript, GIT, GitHub, Docker, Netlify,
 
-## Conventions
-BEM, TDD, GIT flow
+## Conventions & Methodologies
+BEM, TDD, GIT flow, Agile
 
 
 
